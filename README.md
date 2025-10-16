@@ -54,30 +54,9 @@ Metrics analyzed include:
 
 ---
 
-## 📁 Repository Contents
-| File | Description |
-|------|--------------|
-| `Final Project Group 7.twbx` | Tableau packaged workbook |
-| `Final Project Group 7.pdf`  | Full project report (methodology, analysis & visuals) |
-| `README.md` | Project summary and documentation |
-
----
 
 ## 🧾 License
 This project was created for academic purposes as part of the Technion Final Project course (2024–2025).  
 Please provide proper attribution if you reuse or reference this work.
 
 ---
-
-### ✉️ Contact
-For questions or collaboration:  
-📧 [sagidvir@gmail.com](mailto:sagidvir@gmail.com)  
-📧 [shahafwieder@campus.technion.ac.il](mailto:shahafwieder@campus.technion.ac.il)
-
----
-
-### 🖼 Preview
-You can add screenshots from Tableau for quick visual previews:
-```markdown
-![IQI Dashboard Preview](images/iqi_dashboard.png)
-![Browser Trends](images/browser_trends.png)
